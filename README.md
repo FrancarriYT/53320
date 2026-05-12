@@ -1,21 +1,22 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/80584?v=4" alt="ANTLR" width="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw6fhHcnWQWvPnN_how4y2dFYDPIGw9kaVyg&s" alt="UTN FRM" width="150"/>
-</div>
 
 # Analizador Sintáctico y Semántico: 53320-Repetir
 
 **Alumno:** Francisco Carrizo (2k2) - **Legajo:** 53320  
 **Materia:** Sintaxis y Semántica de los Lenguajes - UTN FRM
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw6fhHcnWQWvPnN_how4y2dFYDPIGw9kaVyg&s" alt="UTN FRM" width="150"/>
+</div>
 
 ---
 
-## 🎯 Propósito del Proyecto
+## Propósito del Proyecto
 
 El proyecto consiste en el uso de la extensión **ANTLR4** para la emulación de un léxico y una sintaxis de un lenguaje inventado. Posteriormente, gracias al paquete de desarrollo de ANTLR, el proyecto extrae la información de los nodos, tokens y lexemas para definir una semántica, funcionando como lo haría un intérprete reducido de dicho lenguaje.
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/80584?v=4" alt="ANTLR" width="100"/>
+ </div>
 
-## ⚙️ Instalación
+## Instalación
 
 1. Clona este repositorio:
 
@@ -30,7 +31,7 @@ El proyecto consiste en el uso de la extensión **ANTLR4** para la emulación de
    npm install
    ```
 
-## 🚀 Instrucciones de Uso
+## Instrucciones de Uso
 
 ### Cómo ejecutar el programa
 
@@ -50,7 +51,7 @@ npm start
 
 ---
 
-## 📖 Semántica de la Gramática
+## Semántica de la Gramática
 
 La gramática **`Repetir`** implementa una estructura de control de flujo cíclica. Su diseño es el siguiente:
 
