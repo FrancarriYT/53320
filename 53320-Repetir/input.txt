@@ -1,0 +1,3 @@
+repetir {
+    imprimir("Prueba");
+} hasta verdadero;
