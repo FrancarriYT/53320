@@ -35,15 +35,17 @@ El proyecto consiste en el uso de la extensión **ANTLR4** para la emulación de
 
 ### Cómo ejecutar el programa
 
-Una vez situado en el directorio `53320-Repetir` en tu terminal, puedes ejecutar el analizador directamente corriendo el archivo principal con Node.js:
+Es necesario ingresar a la carpeta `53320` y luego al directorio `53320-Repetir` antes de ejecutar el programa. Puedes iniciar el analizador con Node.js ejecutando:
 
 ```bash
+cd 53320-Repetir
 node index.js
 ```
 
 O de manera alternativa, utilizando el script de npm:
 
 ```bash
+cd 53320/53320-Repetir
 npm start
 ```
 
